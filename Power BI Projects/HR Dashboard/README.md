@@ -1,4 +1,5 @@
-**# HR Dashboard**
+** # HR Dashboard**
+
 The human resources department has the same reporting model across different companies, even when they differ by industry or size. This sample looks at new hires, active employees, and employees who have left. It strives to uncover any trends in the hiring strategy. Our main objectives are to understand:
 - Active & Separations Employees
 - New Hire & Bad Hire 
