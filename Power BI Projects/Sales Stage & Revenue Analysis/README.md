@@ -4,11 +4,11 @@ These dashboards for a software company that has two sales channels: direct and 
 **There are two measures of revenue**
 1. Revenue: A salesperson’s estimate of what the revenue will be.
 2. Factored Revenue: Calculated as revenue X probability % and is accepted as being a more-accurate predictor of actual sales revenue. Probability is determined by the deal’s current sales stage:
-- Lead: 10%
--	Qualify: 20%
--	Solution: 40%
--	Proposal: 60%
--	Finalize: 80%
+                   - Lead: 10%
+                   -	Qualify: 20%
+                   -	Solution: 40%
+                   -	Proposal: 60%
+                   -	Finalize: 80%
 
 **What is our dashboard telling us?**
 - In the Opportunity Count by Sales Stage bar chart, select each Sales Stage in turn to see the difference in regional count. All three regions in the Solution, Proposal, and Finalize sales stages have comparable counts. This result means we close a higher percent of deals in the Central and West regions.
