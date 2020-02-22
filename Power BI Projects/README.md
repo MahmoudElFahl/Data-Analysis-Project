@@ -1,5 +1,5 @@
 # Power BI Projects
-There are my projects with using Power BI in different industries: HR, sales,...etc.
+There are my projects with using Power BI in different fields: HR, sales,...etc.
 
 - **HR Dashboards:** 
 HR Dashboards focuse on the hiring strategy for a company by analyzing new hires, active employees, and employees who have left. By exploring the data, you can find trends in voluntary separations and biases in the hiring strategy.
